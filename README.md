@@ -10,7 +10,7 @@ process:
 7. Model Training: The models are trained on the training dataset using both stock price data alone and stock price data combined with Twitter sentiment analysis.
 8. Model Evaluation: The trained models are evaluated on separate validation and testing datasets to assess their performance. Mean squared error (MSE) is calculated to quantify prediction accuracy.
 
-9. Future Directions:
+Future Directions:
 
 a) Model Optimization: Further optimization of model architecture by using more advance and sophisticated neural networks could potentially improve prediction accuracy.
 
