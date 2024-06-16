@@ -12,7 +12,9 @@ process:
 
 9. Future Directions:
 a) Model Optimization: Further optimization of model architecture by using more advance and sophisticated neural networks could potentially improve prediction accuracy.
+
 b) Additional External Factors: Exploring additional external factors and Sources like APIs that provide latest market related news and connecting them to the model could enhance the models' predictive capabilities a lot.
+
 c) Real-time Prediction: Implementing real-time prediction capabilities to adapt to changing market conditions and provide timely insights.
 
 
