@@ -11,6 +11,7 @@ process:
 8. Model Evaluation: The trained models are evaluated on separate validation and testing datasets to assess their performance. Mean squared error (MSE) is calculated to quantify prediction accuracy.
 
 9. Future Directions:
+
 a) Model Optimization: Further optimization of model architecture by using more advance and sophisticated neural networks could potentially improve prediction accuracy.
 
 b) Additional External Factors: Exploring additional external factors and Sources like APIs that provide latest market related news and connecting them to the model could enhance the models' predictive capabilities a lot.
